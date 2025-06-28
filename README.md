@@ -5,6 +5,15 @@ Stock markets are inherently volatile and influenced by a wide range of economic
 
 
 ### 💼 Business Problem
+Investors need to make informed decisions about which stocks to include in their portfolios. However, without a systematic method to compare performance, volatility, and risk, investment strategies may be poorly optimized. This project addresses:
+
+     - Which stock demonstrated the best performance over the period?
+
+    - Which stock had the highest volatility (risk)?
+
+    - How correlated are these stocks with each other?
+
+    - Which stocks offered the best trade-off between risk and return?
 
 ### 🛠️ Methods
 
